@@ -3,7 +3,6 @@ DRESOS For android 10 to 12 on motorola moto g7 (lake)
 
 An on device built rootless and degoogled Cyber security mobile phone operating system with microg hardening via rootless xposed modules and spoofing services.
 
-
 This is the first stable basic beta version of DRESOS for the moto g7 plus lake using android 10
 
 https://mega.nz/file/DQtnxTwI#aZNo5PidWzWrfPbKfvjj3XsVdtC0rUDGPtOz9cfRUfc
@@ -26,8 +25,9 @@ https://t.me/DRESOS256
 
 We will only be using this github repository for update releases.
 
-The DRESOS team
-ŚLIMAK our cyber sec engineer who built dresos
+The DRESOS team      
+ŚLIMAK our cyber sec engineer who built dresos      
+https://github.com/ZLOCRAX?tab=repositories     
 SHIBA our company director and team builder
 SIMPSON our social media maintainer and promoter
 JIMMY our recovery mode expert 
