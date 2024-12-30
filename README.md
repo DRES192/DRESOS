@@ -28,8 +28,8 @@ We will only be using this github repository for update releases.
 The DRESOS team      
 ŚLIMAK our cyber sec engineer who built dresos      
 https://github.com/ZLOCRAX?tab=repositories     
-SHIBA our company director and team builder
-SIMPSON our social media maintainer and promoter
+SHIBA our company director and team builder    
+SIMPSON our social media maintainer and promoter    
 JIMMY our recovery mode expert 
 
 WE ARE CURRENTLY ON THE LOOKOUT FOR MORE MAINTAINERS EMAIL OR MESSAGE THE DRESOS TEAM ON REDDIT IF YOU ARE A WEBPAGE PAGE BUILDER AND MAINTAINER OR A SOFTWARE ENGINEER WHO CAN DEBUG TO GET DRESOS WORKING ON MORE DEVICES 
