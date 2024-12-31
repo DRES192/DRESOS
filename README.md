@@ -1,5 +1,5 @@
 # DRESOS
-DRESOS For android 10 to 12 on motorola moto g7 (lake)
+DRESOS For android 10 to 14 on motorola moto g7 (lake)
 
 An on device built rootless and degoogled Cyber security mobile phone operating system with microg hardening via rootless xposed modules and spoofing services.
 
@@ -10,9 +10,9 @@ https://mega.nz/file/DQtnxTwI#aZNo5PidWzWrfPbKfvjj3XsVdtC0rUDGPtOz9cfRUfc
 {word of warning}
 This has some bugs so be careful flashing onto device as we are not responsible for the bricking of your device, this is the first stable version of DRESOS now over 9 months behind it is for you to test out and play around with.
 
-DRESOS.V2.5.6 for android 12 built on moto g7 plus lake 
+DRESOS.V2.5.6 for android 14 built on moto g7 plus lake 
 
-This is the alpha version of our OS upgraded to android 12 with multiple cyber security features due for release january 2025
+This is the alpha version of our OS upgraded to android 14 with multiple cyber security features due for release january 2025
 
 {basics}
 on device built whilst being kept rootless
