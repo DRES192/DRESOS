@@ -27,8 +27,7 @@ We will only be using this github repository for update releases.
 
 The DRESOS team      
 ŚLIMAK our cyber sec engineer who built dresos      
-https://github.com/ZLOCRAX?tab=repositories     
-SHIBA our company director and team builder    
+https://github.com/ZLOCRAX?tab=repositories         
 SIMPSON our social media maintainer and promoter    
 JIMMY our recovery mode expert 
 
